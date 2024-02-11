@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "husky": "^9.0.10",
+    "prettier": "3.2.5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "broken-link-checker": "^0.7.8",
+    "readme-md-generator": "^1.0.0"
+  }
+}
