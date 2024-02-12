@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "cspell": "^8.3.2",
     "husky": "^9.0.10",
     "prettier": "3.2.5"
   },

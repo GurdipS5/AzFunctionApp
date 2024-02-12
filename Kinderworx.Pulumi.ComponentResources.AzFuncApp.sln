@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", "build\_build.cspr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E77238DA-A768-4364-9449-382D47FA91CC}"
 	ProjectSection(SolutionItems) = preProject
+		build\.editorconfig = build\.editorconfig
 		.gitignore = .gitignore
 		build.cmd = build.cmd
 		build.ps1 = build.ps1
 		build.sh = build.sh
 		Directory.Build.props = Directory.Build.props
+		cspell.json = cspell.json
 		package-lock.json = package-lock.json
 		package.json = package.json
 		version.json = version.json
